@@ -1,0 +1,6 @@
+{
+  "name": "Smart Office 3D Digital Twin",
+  "description": "Interactive 3D digital twin of a modern office building featuring Comfort, Energy, and Grid & Renewable intelligence engines with simulated real-time telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
